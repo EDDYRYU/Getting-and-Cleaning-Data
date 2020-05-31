@@ -13,4 +13,4 @@ Among them, 9 subjects were classified into "Test" case,
 and other 21 subjects were classified into "Train" case.
 
 To aggregate mean values of data from every 30 subjects,
-the set of data should be combined and manipulated.
+the set of data should be combined and manipulated as run_analysis.R.
